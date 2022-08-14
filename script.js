@@ -53,7 +53,7 @@ function botaoLigado() {
         Total: R$ ${soma.toFixed(2)}`
         
         let uri = encodeURIComponent(mensagem)
-        window.open( 'https://wa.me/12992545942?text='+uri)
+        window.open( 'https://wa.me/5512992545942?text='+uri)
     }
 
 }
