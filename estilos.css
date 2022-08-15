@@ -83,7 +83,7 @@ body{
     overflow-x: scroll;
 }
 .caixinha-pratos{
-    padding-top:18px ;
+    padding-bottom:180px ;
     width: 172px;
     height: 216px;
     box-sizing: border-box;
@@ -248,7 +248,9 @@ body{
 
 .caixinha-pratos, .img1{
     width: 144px;
+    height: 87px;
     border-radius: 4px;
+    
 }
 .caixinha-pratos h3{
     font-family: 'Roboto';
